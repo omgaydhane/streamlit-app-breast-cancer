@@ -14,9 +14,9 @@ This repository contains a comprehensive project for predicting breast cancer ma
 - **Docker Hub**: Prebuilt container available for deployment.
 
 ## Links
-- **Streamlit App**: [http://your-streamlit-app-url](https://diagnosis-stream.streamlit.app)
-- **Docker Hub Container**: [https://hub.docker.com/repository/docker/username/fastapi-rf-app](https://hub.docker.com/r/omgaydhane/fastapi-rf-app/tags)
-- **MLFlow/DagsHub Experiments**: [https://dagshub.com/username/repository](https://dagshub.com/omgaydhane/breastcancer/experiments)
+- **Streamlit App**: [App](https://diagnosis-stream.streamlit.app)
+- **Docker Hub Container**: [View](https://hub.docker.com/r/omgaydhane/fastapi-rf-app/tags)
+- **MLFlow/DagsHub Experiments**: [View](https://dagshub.com/omgaydhane/breastcancer/experiments)
 
 ## Setup Instructions
 1. Clone this repository:
